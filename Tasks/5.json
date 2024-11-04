@@ -1,0 +1,38 @@
+[
+{
+    "line_number": 15,
+    "isWeekend": false,
+    "TicketPrice": 3.50,
+    "Name": "Borek Fałęcki",
+    "Stations": [
+        "Dworzec Główny Tunel",
+        "Rondo Mogilskie",
+        "Rondo Grzegórzeckie",
+        "Piaski Nowe"
+    ]
+},
+{
+    "line_number": 15,
+    "isWeekend": false,
+    "TicketPrice": 3.50,
+    "Name": "Borek Fałęcki",
+    "Stations": [
+        "Dworzec Główny Tunel",
+        "Rondo Mogilskie",
+        "Rondo Grzegórzeckie",
+        "Piaski Nowe"
+    ]
+},
+{
+    "line_number": 15,
+    "isWeekend": false,
+    "TicketPrice": 3.50,
+    "Name": "Borek Fałęcki",
+    "Stations": [
+        "Dworzec Główny Tunel",
+        "Rondo Mogilskie",
+        "Rondo Grzegórzeckie",
+        "Piaski Nowe"
+    ]
+}
+]
